@@ -1,0 +1,2610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed195631-1807-4599-9dfe-83aa74327ec8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hadoop-2.8.2-test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="265">
+      <file leaf-file-name="DFSClientRpcTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/RPC/DFSClientRpcTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileSystem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FileSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="96" column="67" lean-forward="true" selection-start-line="96" selection-start-column="67" selection-end-line="96" selection-end-column="67" />
+              <folding>
+                <element signature="docComment;class#FileSystem#0" />
+                <element signature="e#3985#4010#0" />
+                <element signature="e#4413#4469#0" />
+                <element signature="e#4583#4606#0" />
+                <element signature="e#4652#4710#0" />
+                <element signature="e#4739#4789#0" />
+                <element signature="e#4956#5007#0" />
+                <element signature="e#5046#5152#0" />
+                <element signature="e#5242#5518#0" />
+                <element signature="e#5242#5680#0" />
+                <element signature="e#5684#5996#0" />
+                <element signature="e#5684#6514#0" />
+                <element signature="e#6518#6624#0" />
+                <element signature="e#6749#6900#0" />
+                <element signature="e#7039#7190#0" />
+                <element signature="e#7315#7466#0" />
+                <element signature="e#7594#7794#0" />
+                <element signature="e#7594#8303#0" />
+                <element signature="e#8307#8515#0" />
+                <element signature="e#8307#8681#0" />
+                <element signature="e#8685#8757#0" />
+                <element signature="e#8795#9080#0" />
+                <element signature="e#9164#9574#0" />
+                <element signature="e#9164#10101#0" />
+                <element signature="e#10107#10218#0" />
+                <element signature="e#10275#10618#0" />
+                <element signature="e#10622#11396#0" />
+                <element signature="e#11399#11424#0" />
+                <element signature="e#10622#11628#0" />
+                <element signature="e#11632#11673#0" />
+                <element signature="e#11632#11745#0" />
+                <element signature="e#11749#11805#0" />
+                <element signature="e#11749#11966#0" />
+                <element signature="e#11972#12157#0" />
+                <element signature="e#11972#12701#0" />
+                <element signature="e#12705#12846#0" />
+                <element signature="e#12705#12997#0" />
+                <element signature="e#13001#13295#0" />
+                <element signature="e#14137#14504#0" />
+                <element signature="e#14137#15036#0" />
+                <element signature="e#15039#15383#0" />
+                <element signature="e#15039#16072#0" />
+                <element signature="e#16076#16232#0" />
+                <element signature="e#16076#16367#0" />
+                <element signature="e#16371#16573#0" />
+                <element signature="e#16371#16740#0" />
+                <element signature="e#16744#16872#0" />
+                <element signature="e#16744#16951#0" />
+                <element signature="e#16955#17135#0" />
+                <element signature="e#16955#17250#0" />
+                <element signature="e#17254#17339#0" />
+                <element signature="e#17254#17479#0" />
+                <element signature="e#17487#17867#0" />
+                <element signature="e#17487#17993#0" />
+                <element signature="e#17999#18704#0" />
+                <element signature="e#18707#18732#0" />
+                <element signature="e#17999#19134#0" />
+                <element signature="e#19140#19500#0" />
+                <element signature="e#19140#20523#0" />
+                <element signature="e#20527#20882#0" />
+                <element signature="e#20885#20930#0" />
+                <element signature="e#21024#21627#0" />
+                <element signature="e#21024#21946#0" />
+                <element signature="e#21950#22431#0" />
+                <element signature="e#21950#22740#0" />
+                <element signature="e#22744#22807#0" />
+                <element signature="e#22942#23029#0" />
+                <element signature="e#22942#24445#0" />
+                <element signature="e#24449#24964#0" />
+                <element signature="e#24449#25493#0" />
+                <element signature="e#25499#26101#0" />
+                <element signature="e#25499#26369#0" />
+                <element signature="e#26375#26577#0" />
+                <element signature="e#26375#27185#0" />
+                <element signature="e#26699#26755#0" />
+                <element signature="e#27189#27462#0" />
+                <element signature="e#27189#27571#0" />
+                <element signature="e#27575#27795#0" />
+                <element signature="e#27575#27921#0" />
+                <element signature="e#27925#28083#0" />
+                <element signature="e#28180#28275#0" />
+                <element signature="e#28180#28407#0" />
+                <element signature="e#28411#28549#0" />
+                <element signature="e#28411#28645#0" />
+                <element signature="e#28649#28904#0" />
+                <element signature="e#28649#29182#0" />
+                <element signature="e#29186#29399#0" />
+                <element signature="e#29186#29687#0" />
+                <element signature="e#29691#29876#0" />
+                <element signature="e#29691#30136#0" />
+                <element signature="e#30140#30400#0" />
+                <element signature="e#30140#30824#0" />
+                <element signature="e#30833#31147#0" />
+                <element signature="e#30833#31489#0" />
+                <element signature="e#31497#31851#0" />
+                <element signature="e#31497#32261#0" />
+                <element signature="e#32274#32652#0" />
+                <element signature="e#32274#33042#0" />
+                <element signature="e#33046#33459#0" />
+                <element signature="e#33046#34062#0" />
+                <element signature="e#34066#34614#0" />
+                <element signature="e#34846#35304#0" />
+                <element signature="e#34846#35635#0" />
+                <element signature="e#35641#36202#0" />
+                <element signature="e#35641#36776#0" />
+                <element signature="e#36464#36529#0" />
+                <element signature="e#36780#37883#0" />
+                <element signature="e#37403#37463#0" />
+                <element signature="e#37889#38222#0" />
+                <element signature="e#37889#38571#0" />
+                <element signature="e#38342#38411#0" />
+                <element signature="e#38576#38909#0" />
+                <element signature="e#38576#39868#0" />
+                <element signature="e#39095#39116#0" />
+                <element signature="e#39575#39644#0" />
+                <element signature="e#39872#40473#0" />
+                <element signature="e#39872#40799#0" />
+                <element signature="e#40803#41427#0" />
+                <element signature="e#40803#41866#0" />
+                <element signature="e#41871#42420#0" />
+                <element signature="e#41871#42758#0" />
+                <element signature="e#42762#42937#0" />
+                <element signature="e#42762#43159#0" />
+                <element signature="e#43163#43375#0" />
+                <element signature="e#43163#43518#0" />
+                <element signature="e#43521#43757#0" />
+                <element signature="e#43521#43881#0" />
+                <element signature="e#43885#44142#0" />
+                <element signature="e#44263#44459#0" />
+                <element signature="e#44263#44683#0" />
+                <element signature="e#44686#44849#0" />
+                <element signature="e#44686#44977#0" />
+                <element signature="e#44981#45223#0" />
+                <element signature="e#44981#45330#0" />
+                <element signature="e#45334#45577#0" />
+                <element signature="e#45654#46673#0" />
+                <element signature="e#45654#48607#0" />
+                <element signature="e#48611#49411#0" />
+                <element signature="e#48611#49626#0" />
+                <element signature="e#49632#49722#0" />
+                <element signature="e#49632#49821#0" />
+                <element signature="e#49827#50164#0" />
+                <element signature="e#50248#50674#0" />
+                <element signature="e#50248#50869#0" />
+                <element signature="e#50875#50993#0" />
+                <element signature="e#50875#51120#0" />
+                <element signature="e#51124#51255#0" />
+                <element signature="e#51700#51752#0" />
+                <element signature="e#51700#51924#0" />
+                <element signature="e#51928#52129#0" />
+                <element signature="e#51928#52346#0" />
+                <element signature="e#52350#52554#0" />
+                <element signature="e#52350#52761#0" />
+                <element signature="e#52807#52853#0" />
+                <element signature="e#52807#52962#0" />
+                <element signature="e#52970#53062#0" />
+                <element signature="e#52970#54014#0" />
+                <element signature="e#54018#54108#0" />
+                <element signature="e#54018#54208#0" />
+                <element signature="e#54385#54810#0" />
+                <element signature="e#54969#55536#0" />
+                <element signature="e#55540#55715#0" />
+                <element signature="e#55540#56020#0" />
+                <element signature="e#56024#56575#0" />
+                <element signature="e#56024#56880#0" />
+                <element signature="e#56884#57385#0" />
+                <element signature="e#56884#57532#0" />
+                <element signature="e#57536#58086#0" />
+                <element signature="e#57536#58427#0" />
+                <element signature="e#58431#60203#0" />
+                <element signature="e#58431#60345#0" />
+                <element signature="e#60351#60962#0" />
+                <element signature="e#60351#61121#0" />
+                <element signature="e#61127#61658#0" />
+                <element signature="e#61127#61832#0" />
+                <element signature="e#61836#62273#0" />
+                <element signature="e#61836#63225#0" />
+                <element signature="class#62444:63220" />
+                <element signature="method#next#0;class#62444:63220" />
+                <element signature="e#62889#62955#0" />
+                <element signature="e#63229#63642#0" />
+                <element signature="e#63229#64193#0" />
+                <element signature="class#63773:64188" />
+                <element signature="method#next#0;class#63773:64188" />
+                <element signature="e#64197#64941#0" />
+                <element signature="e#64197#66647#0" />
+                <element signature="class#65102:66642" />
+                <element signature="method#hasNext#0;class#65102:66642" />
+                <element signature="method#handleFileStat#0;class#65102:66642" />
+                <element signature="method#next#0;class#65102:66642" />
+                <element signature="e#66653#66779#0" />
+                <element signature="e#66653#66910#0" />
+                <element signature="e#66915#67073#0" />
+                <element signature="e#67139#67249#0" />
+                <element signature="e#67304#67787#0" />
+                <element signature="e#67860#67940#0" />
+                <element signature="e#67860#68049#0" />
+                <element signature="e#68053#68302#0" />
+                <element signature="e#68399#68572#0" />
+                <element signature="e#68399#68693#0" />
+                <element signature="e#68697#68864#0" />
+                <element signature="e#68697#68994#0" />
+                <element signature="e#68998#69163#0" />
+                <element signature="e#68998#69283#0" />
+                <element signature="e#69287#69519#0" />
+                <element signature="e#69287#69663#0" />
+                <element signature="e#69669#69991#0" />
+                <element signature="e#69669#70256#0" />
+                <element signature="e#70262#70554#0" />
+                <element signature="e#70262#70815#0" />
+                <element signature="e#70823#70991#0" />
+                <element signature="e#70823#71104#0" />
+                <element signature="e#71112#71314#0" />
+                <element signature="e#71112#71426#0" />
+                <element signature="e#71430#71700#0" />
+                <element signature="e#71430#71844#0" />
+                <element signature="e#71852#72539#0" />
+                <element signature="e#71852#72919#0" />
+                <element signature="e#72923#73295#0" />
+                <element signature="e#72923#73418#0" />
+                <element signature="e#73422#73764#0" />
+                <element signature="e#73422#73916#0" />
+                <element signature="e#73920#74011#0" />
+                <element signature="e#74195#74255#0" />
+                <element signature="e#74195#74361#0" />
+                <element signature="e#74365#74429#0" />
+                <element signature="e#74365#74535#0" />
+                <element signature="e#74669#74715#0" />
+                <element signature="e#74669#74833#0" />
+                <element signature="e#74837#75026#0" />
+                <element signature="e#74837#75222#0" />
+                <element signature="e#75230#75545#0" />
+                <element signature="e#75631#75740#0" />
+                <element signature="e#75631#75807#0" />
+                <element signature="e#75811#76061#0" />
+                <element signature="e#76157#76424#0" />
+                <element signature="e#76499#77952#0" />
+                <element signature="e#76499#78191#0" />
+                <element signature="e#78195#78420#0" />
+                <element signature="e#78195#79258#0" />
+                <element signature="e#79262#79316#0" />
+                <element signature="e#79262#79480#0" />
+                <element signature="e#79484#79557#0" />
+                <element signature="e#79484#79988#0" />
+                <element signature="e#79992#80054#0" />
+                <element signature="e#79992#80309#0" />
+                <element signature="e#80313#80377#0" />
+                <element signature="e#80441#80499#0" />
+                <element signature="e#80441#80713#0" />
+                <element signature="e#80717#80782#0" />
+                <element signature="e#80717#80997#0" />
+                <element signature="e#81001#81246#0" />
+                <element signature="e#81001#81364#0" />
+                <element signature="e#81368#81605#0" />
+                <element signature="e#81368#81718#0" />
+                <element signature="e#81722#81906#0" />
+                <element signature="e#81722#81994#0" />
+                <element signature="e#81998#82180#0" />
+                <element signature="e#81998#82266#0" />
+                <element signature="e#82270#82576#0" />
+                <element signature="e#82270#82659#0" />
+                <element signature="e#82663#83092#0" />
+                <element signature="e#82663#83213#0" />
+                <element signature="e#83217#83294#0" />
+                <element signature="e#83217#83387#0" />
+                <element signature="e#83391#83698#0" />
+                <element signature="e#83391#83796#0" />
+                <element signature="e#83800#84271#0" />
+                <element signature="e#83800#84358#0" />
+                <element signature="e#84362#84509#0" />
+                <element signature="e#84362#84619#0" />
+                <element signature="e#84623#84799#0" />
+                <element signature="e#84623#85008#0" />
+                <element signature="e#85014#85242#0" />
+                <element signature="e#85014#85478#0" />
+                <element signature="e#85484#85656#0" />
+                <element signature="e#85484#85865#0" />
+                <element signature="e#85871#86331#0" />
+                <element signature="e#85871#86547#0" />
+                <element signature="e#86551#86809#0" />
+                <element signature="e#86551#87025#0" />
+                <element signature="e#87029#87197#0" />
+                <element signature="e#87029#87389#0" />
+                <element signature="e#87393#87667#0" />
+                <element signature="e#87393#87845#0" />
+                <element signature="e#87849#88197#0" />
+                <element signature="e#87849#88387#0" />
+                <element signature="e#88391#88596#0" />
+                <element signature="e#88391#88779#0" />
+                <element signature="e#88783#89139#0" />
+                <element signature="e#88783#89327#0" />
+                <element signature="e#89331#89719#0" />
+                <element signature="e#89331#89950#0" />
+                <element signature="e#89954#90344#0" />
+                <element signature="e#89954#90529#0" />
+                <element signature="e#90533#90945#0" />
+                <element signature="e#90533#91132#0" />
+                <element signature="e#91136#91580#0" />
+                <element signature="e#91136#91793#0" />
+                <element signature="e#91797#92193#0" />
+                <element signature="e#91797#92379#0" />
+                <element signature="e#92383#92729#0" />
+                <element signature="e#92383#92918#0" />
+                <element signature="e#92922#93260#0" />
+                <element signature="e#92922#93482#0" />
+                <element signature="e#93486#93625#0" />
+                <element signature="e#93486#93820#0" />
+                <element signature="e#93824#94022#0" />
+                <element signature="e#93824#94236#0" />
+                <element signature="e#94240#94413#0" />
+                <element signature="e#94240#94645#0" />
+                <element signature="e#94649#94890#0" />
+                <element signature="e#94649#95035#0" />
+                <element signature="e#95039#95341#0" />
+                <element signature="e#95039#96248#0" />
+                <element signature="e#96526#97654#0" />
+                <element signature="e#97658#98210#0" />
+                <element signature="e#98214#98726#0" />
+                <element signature="e#98730#98763#0" />
+                <element signature="e#99006#99066#0" />
+                <element signature="e#99283#99358#0" />
+                <element signature="e#99283#99542#0" />
+                <element signature="e#100840#100918#0" />
+                <element signature="e#100924#101070#0" />
+                <element signature="e#102256#103209#0" />
+                <element signature="e#102403#102467#0" />
+                <element signature="e#103215#103242#0" />
+                <element signature="e#103215#104768#0" />
+                <element signature="e#103437#103526#0" />
+                <element signature="e#103534#103914#0" />
+                <element signature="e#104177#104625#0" />
+                <element signature="e#104778#105514#0" />
+                <element signature="e#105560#105958#0" />
+                <element signature="e#105560#107452#0" />
+                <element signature="e#106162#106231#0" />
+                <element signature="e#106162#106499#0" />
+                <element signature="e#106507#106566#0" />
+                <element signature="e#106507#106812#0" />
+                <element signature="e#106820#107063#0" />
+                <element signature="e#107458#107568#0" />
+                <element signature="e#107608#107904#0" />
+                <element signature="e#107953#107990#0" />
+                <element signature="e#108054#108351#0" />
+                <element signature="e#108413#108552#0" />
+                <element signature="e#108680#109045#0" />
+                <element signature="e#109051#109283#0" />
+                <element signature="e#109289#109401#0" />
+                <element signature="e#109289#109889#0" />
+                <element signature="class#109547:109761" />
+                <element signature="e#109895#110104#0" />
+                <element signature="e#109895#110969#0" />
+                <element signature="e#110227#110374#0" />
+                <element signature="e#110452#110557#0" />
+                <element signature="e#110452#110963#0" />
+                <element signature="e#110975#111047#0" />
+                <element signature="e#110975#111661#0" />
+                <element signature="e#111132#111655#0" />
+                <element signature="e#111395#111457#0" />
+                <element signature="e#111667#111757#0" />
+                <element signature="e#111667#112155#0" />
+                <element signature="e#112161#112271#0" />
+                <element signature="e#112390#112506#0" />
+                <element signature="e#112631#112735#0" />
+                <element signature="e#112839#112955#0" />
+                <element signature="e#113069#113175#0" />
+                <element signature="e#113281#113639#0" />
+                <element signature="e#113281#113920#0" />
+                <element signature="e#113926#114014#0" />
+                <element signature="e#113926#114347#0" />
+                <element signature="class#114074:114339" />
+                <element signature="e#114357#114448#0" />
+                <element signature="e#114357#114796#0" />
+                <element signature="class#114511:114788" />
+                <element signature="e#114806#114930#0" />
+                <element signature="e#114806#115297#0" />
+                <element signature="class#114987:115289" />
+                <element signature="method#accept#0;class#114987:115289" />
+                <element signature="e#115303#115470#0" />
+                <element signature="e#115303#115822#0" />
+                <element signature="class#115532:115814" />
+                <element signature="e#115828#115978#0" />
+                <element signature="e#115828#116310#0" />
+                <element signature="class#116036:116302" />
+                <element signature="e#116316#116472#0" />
+                <element signature="e#116316#116833#0" />
+                <element signature="class#116537:116825" />
+                <element signature="e#116839#117203#0" />
+                <element signature="class#116906:117195" />
+                <element signature="e#117209#118124#0" />
+                <element signature="e#117209#118508#0" />
+                <element signature="class#118170:118500" />
+                <element signature="method#aggregate#0;class#118170:118500" />
+                <element signature="e#118518#118660#0" />
+                <element signature="e#118839#119045#0" />
+                <element signature="e#118839#119326#0" />
+                <element signature="e#119330#119455#0" />
+                <element signature="e#119330#119604#0" />
+                <element signature="e#119610#119800#0" />
+                <element signature="e#119610#120533#0" />
+                <element signature="e#120539#120595#0" />
+                <element signature="e#120703#120759#0" />
+                <element signature="e#120703#121073#0" />
+                <element signature="e#121443#121889#0" />
+                <element signature="e#122009#122058#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DistributedFileSystem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="125" column="9" selection-start-line="125" selection-start-column="9" selection-end-line="125" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DFSClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DFSClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7416">
+              <caret line="617" column="14" selection-start-line="617" selection-start-column="14" selection-end-line="617" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShutdownHookManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/ShutdownHookManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="201" column="14" selection-start-line="201" selection-start-column="14" selection-end-line="201" selection-end-column="14" />
+              <folding>
+                <element signature="e#2307#3719#0" expanded="true" />
+                <element signature="e#3718#3719#0" expanded="true" />
+                <element signature="e#4047#4048#0" expanded="true" />
+                <element signature="e#4067#4068#0" expanded="true" />
+                <element signature="e#4369#4370#0" expanded="true" />
+                <element signature="e#4439#4440#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Configuration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf/Configuration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23832">
+              <caret line="1480" selection-start-line="1480" selection-end-line="1480" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1166">
+              <caret line="1100" column="38" selection-start-line="1100" selection-start-column="20" selection-end-line="1100" selection-end-column="38" />
+              <folding>
+                <element signature="docComment;class#Client#0" />
+                <element signature="e#3709#3716#0" />
+                <element signature="e#3864#3905#0" />
+                <element signature="e#4049#4058#0" expanded="true" />
+                <element signature="e#4134#4143#0" expanded="true" />
+                <element signature="e#4436#4567#0" expanded="true" />
+                <element signature="e#4566#4567#0" expanded="true" />
+                <element signature="e#4572#4602#0" />
+                <element signature="e#4778#4831#0" />
+                <element signature="e#4778#5255#0" />
+                <element signature="e#5924#6121#0" />
+                <element signature="e#6446#6745#0" />
+                <element signature="e#6446#7121#0" />
+                <element signature="e#7131#7476#0" />
+                <element signature="e#7131#8123#0" />
+                <element signature="e#8134#8273#0" />
+                <element signature="e#8134#8444#0" />
+                <element signature="e#8448#8636#0" />
+                <element signature="e#8448#8834#0" />
+                <element signature="e#8838#9246#0" />
+                <element signature="e#8838#9601#0" />
+                <element signature="e#9605#9745#0" />
+                <element signature="e#9605#10010#0" />
+                <element signature="e#10013#10167#0" />
+                <element signature="e#10013#10333#0" />
+                <element signature="e#10479#10538#0" />
+                <element signature="e#10597#10656#0" />
+                <element signature="e#10715#10841#0" />
+                <element signature="e#10916#10953#0" />
+                <element signature="e#10916#11587#0" />
+                <element signature="e#11700#11749#0" />
+                <element signature="e#11700#13882#0" />
+                <element signature="e#12201#12691#0" />
+                <element signature="e#12795#12904#0" />
+                <element signature="e#12795#13181#0" />
+                <element signature="e#13187#13364#0" />
+                <element signature="e#13187#13481#0" />
+                <element signature="e#13491#13655#0" />
+                <element signature="e#13491#13789#0" />
+                <element signature="e#13886#14099#0" />
+                <element signature="e#15376#15391#0" expanded="true" />
+                <element signature="e#15714#18360#0" />
+                <element signature="e#17285#17351#0" />
+                <element signature="e#17779#17844#0" />
+                <element signature="e#18366#18415#0" />
+                <element signature="e#18490#18712#0" />
+                <element signature="e#18490#18900#0" />
+                <element signature="e#18906#19068#0" />
+                <element signature="e#18906#20871#0" />
+                <element signature="e#19239#19683#0" />
+                <element signature="e#19697#19919#0" />
+                <element signature="e#19697#20231#0" />
+                <element signature="e#20239#20512#0" />
+                <element signature="e#20239#20865#0" />
+                <element signature="e#20881#21102#0" />
+                <element signature="e#21112#21831#0" />
+                <element signature="e#21607#21661#0" />
+                <element signature="e#21837#22318#0" />
+                <element signature="e#21944#22016#0" />
+                <element signature="e#22324#22558#0" />
+                <element signature="e#22324#23091#0" />
+                <element signature="e#23101#25660#0" />
+                <element signature="e#25666#26109#0" />
+                <element signature="e#25666#28112#0" />
+                <element signature="e#26367#28104#0" expanded="true" />
+                <element signature="e#27200#27235#0" />
+                <element signature="e#28103#28104#0" expanded="true" />
+                <element signature="e#28123#28294#0" />
+                <element signature="e#28123#31827#0" />
+                <element signature="e#29253#29543#0" expanded="true" />
+                <element signature="e#29542#29543#0" expanded="true" />
+                <element signature="e#31451#31520#0" />
+                <element signature="e#31837#32239#0" />
+                <element signature="e#32093#32154#0" />
+                <element signature="e#32245#33302#0" />
+                <element signature="e#33308#34529#0" />
+                <element signature="e#34535#35035#0" />
+                <element signature="e#34535#35976#0" />
+                <element signature="e#35130#35189#0" />
+                <element signature="e#35982#37232#0" />
+                <element signature="e#36805#36874#0" />
+                <element signature="e#37238#38343#0" />
+                <element signature="e#38427#38891#0" />
+                <element signature="e#38897#39735#0" />
+                <element signature="e#39235#39309#0" />
+                <element signature="e#39741#39948#0" />
+                <element signature="e#40120#40182#0" />
+                <element signature="e#41050#42105#0" expanded="true" />
+                <element signature="e#41661#41720#0" />
+                <element signature="e#42104#42105#0" expanded="true" />
+                <element signature="e#42263#42327#0" />
+                <element signature="e#42595#44712#0" />
+                <element signature="e#44722#44900#0" />
+                <element signature="e#44910#44938#0" />
+                <element signature="e#44910#46187#0" />
+                <element signature="e#45116#45184#0" />
+                <element signature="e#46197#46519#0" />
+                <element signature="e#46527#46616#0" />
+                <element signature="e#47475#47584#0" />
+                <element signature="e#47737#47834#0" />
+                <element signature="e#47905#48006#0" />
+                <element signature="e#47905#48524#0" />
+                <element signature="e#49360#49874#0" />
+                <element signature="e#49878#50487#0" />
+                <element signature="class#51480:52226" />
+                <element signature="method#get#0;class#51480:52226" />
+                <element signature="method#isDone#0;class#51480:52226" />
+                <element signature="e#52371#52539#0" />
+                <element signature="e#52641#52828#0" />
+                <element signature="e#53109#53170#0" />
+                <element signature="e#53109#54223#0" />
+                <element signature="e#54254#54280#0" />
+                <element signature="e#54395#54531#0" />
+                <element signature="e#54395#56029#0" />
+                <element signature="e#55503#55574#0" />
+                <element signature="e#55845#55918#0" />
+                <element signature="e#56035#56199#0" />
+                <element signature="e#56202#56258#0" />
+                <element signature="e#57276#58934#0" />
+                <element signature="e#59359#59408#0" />
+                <element signature="e#59510#59542#0" />
+                <element signature="e#59609#59649#0" />
+                <element signature="e#59928#60237#0" />
+                <element signature="e#61307#62014#0" />
+                <element signature="e#62024#62626#0" />
+                <element signature="e#62725#63240#0" />
+                <element signature="e#63340#63349#0" />
+                <element signature="e#63340#63418#0" />
+                <element signature="e#63422#63536#0" />
+                <element signature="e#63780#64090#0" />
+                <element signature="e#64096#64415#0" />
+                <element signature="e#64164#64232#0" />
+                <element signature="e#64421#64579#0" />
+                <element signature="e#64585#64749#0" />
+                <element signature="e#64755#65575#0" />
+                <element signature="e#65671#65750#0" />
+                <element signature="e#65756#65860#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResponseBuffer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/ResponseBuffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NetUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net/NetUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8496">
+              <caret line="530" selection-start-line="530" selection-end-line="530" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SocketIOWithTimeout.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net/SocketIOWithTimeout.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RpcConstants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/RpcConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientId.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/ClientId.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonConfigurationKeys.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/CommonConfigurationKeys.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5364">
+              <caret line="316" column="58" selection-start-line="316" selection-start-column="58" selection-end-line="316" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IpcConnectionContextProtos.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/target/generated-sources/java/org/apache/hadoop/ipc/protobuf/IpcConnectionContextProtos.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="765" column="28" selection-start-line="765" selection-start-column="28" selection-end-line="765" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProtobufRpcEngine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/ProtobufRpcEngine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+              <folding>
+                <element signature="e#3757#3766#0" />
+                <element signature="method#getProtocolMetaInfoProxy#0;class#ProtobufRpcEngine#0" />
+                <element signature="docComment;method#Invoker#1;class#Invoker#0;class#ProtobufRpcEngine#0" />
+                <element signature="method#constructRpcRequestHeader#0;class#Invoker#0;class#ProtobufRpcEngine#0" />
+                <element signature="e#6500#6573#0" />
+                <element signature="docComment;method#invoke#0;class#Invoker#0;class#ProtobufRpcEngine#0" />
+                <element signature="e#8667#8722#0" />
+                <element signature="class#10520:10842" />
+                <element signature="method#get#0;class#10520:10842" />
+                <element signature="method#getReturnMessage#0;class#Invoker#0;class#ProtobufRpcEngine#0" />
+                <element signature="method#getReturnProtoType#0;class#Invoker#0;class#ProtobufRpcEngine#0" />
+                <element signature="e#12549#12567#0" />
+                <element signature="method#getClient#0;class#ProtobufRpcEngine#0" />
+                <element signature="method#getServer#0;class#ProtobufRpcEngine#0" />
+                <element signature="class#Server#0;class#ProtobufRpcEngine#0" />
+                <element signature="method#Server#0;class#Server#0;class#ProtobufRpcEngine#0" />
+                <element signature="class#ProtoBufRpcInvoker#0;class#Server#0;class#ProtobufRpcEngine#0" />
+                <element signature="method#getProtocolImpl#0;class#ProtoBufRpcInvoker#0;class#Server#0;class#ProtobufRpcEngine#0" />
+                <element signature="class#RpcProtobufRequest#0;class#ProtobufRpcEngine#0" />
+                <element signature="method#RpcProtobufRequest#0;class#RpcProtobufRequest#0;class#ProtobufRpcEngine#0" />
+                <element signature="method#getRequestHeader#0;class#RpcProtobufRequest#0;class#ProtobufRpcEngine#0" />
+                <element signature="method#toString#0;class#RpcProtobufRequest#0;class#ProtobufRpcEngine#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceException.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0-sources.jar!/com/google/protobuf/ServiceException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="e#1959#1960#0" expanded="true" />
+                <element signature="e#1983#1984#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RPC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/RPC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2484">
+              <caret line="263" column="32" selection-start-line="263" selection-start-column="32" selection-end-line="263" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientNamenodeProtocolTranslatorPB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/protocolPB/ClientNamenodeProtocolTranslatorPB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5562">
+              <caret line="507" selection-start-line="507" selection-end-line="507" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProtobufHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/ProtobufHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RpcWritable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/RpcWritable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+              <folding>
+                <element signature="e#3326#3327#0" expanded="true" />
+                <element signature="e#3362#3363#0" expanded="true" />
+                <element signature="e#4699#4700#0" expanded="true" />
+                <element signature="e#4734#4735#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientCache.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/ClientCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+              <folding>
+                <element signature="e#1231#1287#0" />
+                <element signature="docComment;method#getClient#1;class#ClientCache#0" />
+                <element signature="method#getClient#1;class#ClientCache#0" />
+                <element signature="docComment;method#getClient#2;class#ClientCache#0" />
+                <element signature="method#getClient#2;class#ClientCache#0" />
+                <element signature="docComment;method#stopClient#0;class#ClientCache#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonConfigurationKeysPublic.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/CommonConfigurationKeysPublic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5688">
+              <caret line="338" column="54" selection-start-line="338" selection-start-column="54" selection-end-line="338" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RetryPolicies.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/RetryPolicies.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2304">
+              <caret line="647" column="38" selection-start-line="647" selection-start-column="38" selection-end-line="647" selection-end-column="38" />
+              <folding>
+                <element signature="docComment;class#RetryPolicies#0" />
+                <element signature="docComment;field#TRY_ONCE_THEN_FAIL#0;class#RetryPolicies#0" />
+                <element signature="docComment;field#RETRY_FOREVER#0;class#RetryPolicies#0" />
+                <element signature="docComment;method#retryForeverWithFixedSleep#0;class#RetryPolicies#0" />
+                <element signature="method#retryForeverWithFixedSleep#0;class#RetryPolicies#0" />
+                <element signature="docComment;method#retryUpToMaximumCountWithFixedSleep#0;class#RetryPolicies#0" />
+                <element signature="method#retryUpToMaximumCountWithFixedSleep#0;class#RetryPolicies#0" />
+                <element signature="docComment;method#retryUpToMaximumTimeWithFixedSleep#0;class#RetryPolicies#0" />
+                <element signature="method#retryUpToMaximumTimeWithFixedSleep#0;class#RetryPolicies#0" />
+                <element signature="docComment;method#retryUpToMaximumCountWithProportionalSleep#0;class#RetryPolicies#0" />
+                <element signature="method#retryUpToMaximumCountWithProportionalSleep#0;class#RetryPolicies#0" />
+                <element signature="docComment;method#exponentialBackoffRetry#0;class#RetryPolicies#0" />
+                <element signature="method#exponentialBackoffRetry#0;class#RetryPolicies#0" />
+                <element signature="docComment;method#retryByException#0;class#RetryPolicies#0" />
+                <element signature="method#retryByException#0;class#RetryPolicies#0" />
+                <element signature="docComment;method#retryByRemoteException#0;class#RetryPolicies#0" />
+                <element signature="method#retryByRemoteException#0;class#RetryPolicies#0" />
+                <element signature="docComment;method#retryOtherThanRemoteException#0;class#RetryPolicies#0" />
+                <element signature="method#retryOtherThanRemoteException#0;class#RetryPolicies#0" />
+                <element signature="method#failoverOnNetworkException#0;class#RetryPolicies#0" />
+                <element signature="method#failoverOnNetworkException#1;class#RetryPolicies#0" />
+                <element signature="method#failoverOnNetworkException#2;class#RetryPolicies#0" />
+                <element signature="method#failoverOnNetworkException#3;class#RetryPolicies#0" />
+                <element signature="class#TryOnceThenFail#0;class#RetryPolicies#0" />
+                <element signature="method#shouldRetry#0;class#TryOnceThenFail#0;class#RetryPolicies#0" />
+                <element signature="method#equals#0;class#TryOnceThenFail#0;class#RetryPolicies#0" />
+                <element signature="class#RetryForever#0;class#RetryPolicies#0" />
+                <element signature="method#shouldRetry#0;class#RetryForever#0;class#RetryPolicies#0" />
+                <element signature="docComment;class#RetryLimited#0;class#RetryPolicies#0" />
+                <element signature="class#RetryLimited#0;class#RetryPolicies#0" />
+                <element signature="method#RetryLimited#0;class#RetryLimited#0;class#RetryPolicies#0" />
+                <element signature="method#shouldRetry#0;class#RetryLimited#0;class#RetryPolicies#0" />
+                <element signature="method#constructReasonString#0;class#RetryLimited#0;class#RetryPolicies#0" />
+                <element signature="method#equals#0;class#RetryLimited#0;class#RetryPolicies#0" />
+                <element signature="method#toString#0;class#RetryLimited#0;class#RetryPolicies#0" />
+                <element signature="class#RetryUpToMaximumCountWithFixedSleep#0;class#RetryPolicies#0" />
+                <element signature="method#RetryUpToMaximumCountWithFixedSleep#0;class#RetryUpToMaximumCountWithFixedSleep#0;class#RetryPolicies#0" />
+                <element signature="class#RetryUpToMaximumTimeWithFixedSleep#0;class#RetryPolicies#0" />
+                <element signature="method#RetryUpToMaximumTimeWithFixedSleep#0;class#RetryUpToMaximumTimeWithFixedSleep#0;class#RetryPolicies#0" />
+                <element signature="method#constructReasonString#0;class#RetryUpToMaximumTimeWithFixedSleep#0;class#RetryPolicies#0" />
+                <element signature="class#RetryUpToMaximumCountWithProportionalSleep#0;class#RetryPolicies#0" />
+                <element signature="method#RetryUpToMaximumCountWithProportionalSleep#0;class#RetryUpToMaximumCountWithProportionalSleep#0;class#RetryPolicies#0" />
+                <element signature="docComment;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="docComment;class#Pair#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="class#Pair#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="method#Pair#0;class#Pair#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="method#MultipleLinearRandomRetry#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="method#shouldRetry#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="e#12929#12963#0" />
+                <element signature="docComment;method#searchPair#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="method#searchPair#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="method#equals#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="method#toString#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="docComment;method#parseCommaSeparatedString#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="method#parseCommaSeparatedString#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="docComment;method#parsePositiveInt#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="method#parsePositiveInt#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+                <element signature="class#ExceptionDependentRetry#0;class#RetryPolicies#0" />
+                <element signature="method#ExceptionDependentRetry#0;class#ExceptionDependentRetry#0;class#RetryPolicies#0" />
+                <element signature="method#shouldRetry#0;class#ExceptionDependentRetry#0;class#RetryPolicies#0" />
+                <element signature="class#RemoteExceptionDependentRetry#0;class#RetryPolicies#0" />
+                <element signature="method#RemoteExceptionDependentRetry#0;class#RemoteExceptionDependentRetry#0;class#RetryPolicies#0" />
+                <element signature="method#shouldRetry#0;class#RemoteExceptionDependentRetry#0;class#RetryPolicies#0" />
+                <element signature="class#OtherThanRemoteExceptionDependentRetry#0;class#RetryPolicies#0" />
+                <element signature="method#OtherThanRemoteExceptionDependentRetry#0;class#OtherThanRemoteExceptionDependentRetry#0;class#RetryPolicies#0" />
+                <element signature="method#shouldRetry#0;class#OtherThanRemoteExceptionDependentRetry#0;class#RetryPolicies#0" />
+                <element signature="class#ExponentialBackoffRetry#0;class#RetryPolicies#0" />
+                <element signature="method#ExponentialBackoffRetry#0;class#ExponentialBackoffRetry#0;class#RetryPolicies#0" />
+                <element signature="method#FailoverOnNetworkExceptionRetry#1;class#FailoverOnNetworkExceptionRetry#0;class#RetryPolicies#0" />
+                <element signature="method#calculateExponentialTime#1;class#RetryPolicies#0" />
+                <element signature="method#isWrappedStandbyException#0;class#RetryPolicies#0" />
+                <element signature="method#getWrappedRetriableException#0;class#RetryPolicies#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RetryInvocationHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/RetryInvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="235" selection-start-line="235" selection-end-line="235" />
+              <folding>
+                <element signature="class#Call#0;class#RetryInvocationHandler#0" />
+                <element signature="method#Call#0;class#Call#0;class#RetryInvocationHandler#0" />
+                <element signature="docComment;method#invokeOnce#0;class#Call#0;class#RetryInvocationHandler#0" />
+                <element signature="method#invokeOnce#0;class#Call#0;class#RetryInvocationHandler#0" />
+                <element signature="e#3004#3076#0" />
+                <element signature="method#processWaitTimeAndRetryInfo#0;class#Call#0;class#RetryInvocationHandler#0" />
+                <element signature="method#processRetryInfo#0;class#Call#0;class#RetryInvocationHandler#0" />
+                <element signature="method#invoke#0;class#Call#0;class#RetryInvocationHandler#0" />
+                <element signature="method#invokeMethod#0;class#Call#0;class#RetryInvocationHandler#0" />
+                <element signature="method#toString#0;class#Call#0;class#RetryInvocationHandler#0" />
+                <element signature="class#Counters#0;class#RetryInvocationHandler#0" />
+                <element signature="class#ProxyDescriptor#0;class#RetryInvocationHandler#0" />
+                <element signature="method#ProxyDescriptor#0;class#ProxyDescriptor#0;class#RetryInvocationHandler#0" />
+                <element signature="method#failover#0;class#ProxyDescriptor#0;class#RetryInvocationHandler#0" />
+                <element signature="method#idempotentOrAtMostOnce#0;class#ProxyDescriptor#0;class#RetryInvocationHandler#0" />
+                <element signature="class#RetryInfo#0;class#RetryInvocationHandler#0" />
+                <element signature="method#newRetryInfo#0;class#RetryInfo#0;class#RetryInvocationHandler#0" />
+                <element signature="method#RetryInvocationHandler#1;class#RetryInvocationHandler#0" />
+                <element signature="method#getRetryPolicy#0;class#RetryInvocationHandler#0" />
+                <element signature="method#newCall#0;class#RetryInvocationHandler#0" />
+                <element signature="method#invoke#0;class#RetryInvocationHandler#0" />
+                <element signature="method#handleException#0;class#RetryInvocationHandler#0" />
+                <element signature="method#log#0;class#RetryInvocationHandler#0" />
+                <element signature="e#12802#12855#0" />
+                <element signature="method#invokeMethod#0;class#RetryInvocationHandler#0" />
+                <element signature="method#isRpcInvocation#0;class#RetryInvocationHandler#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CallReturn.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/CallReturn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+              <folding>
+                <element signature="e#1892#1893#0" expanded="true" />
+                <element signature="e#1931#1932#0" expanded="true" />
+                <element signature="e#2066#2067#0" expanded="true" />
+                <element signature="e#2095#2096#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FailoverProxyProvider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/FailoverProxyProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfiguredFailoverProxyProvider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/server/namenode/ha/ConfiguredFailoverProxyProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+              <folding>
+                <element signature="e#4825#4826#0" expanded="true" />
+                <element signature="e#4856#4857#0" expanded="true" />
+                <element signature="e#4901#4902#0" expanded="true" />
+                <element signature="e#4971#4972#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RpcInvocationHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/RpcInvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RetryPolicy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/RetryPolicy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+              <folding>
+                <element signature="e#1874#1875#0" expanded="true" />
+                <element signature="e#1917#1918#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RetryPolicies</find>
+      <find>Failed</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/RPC/JavaInvocationTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/RPC/DFSClientRpcTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="InstancesTracker">
+    <option name="classes">
+      <map>
+        <entry key="org.apache.hadoop.hdfs.DistributedFileSystem$1" value="CREATION" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../soft/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../soft/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hadoop-2.8.2-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hadoop-2.8.2-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hadoop-2.8.2-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hadoop-2.8.2-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.apache.hadoop:hadoop-client:2.8.2" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="42" />
+    <option name="y" value="23" />
+    <option name="width" value="1398" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hadoop-2.8.2-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.8.2-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-2.8.2-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.8.2-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-2.8.2-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.8.2-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-2.8.2-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.8.2-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-2.8.2-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.8.2-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="RpcE&#9;FILE&#9;file:///Users/zhiqiang32/domain/bd/hadoop/hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/ProtobufRpcEngine.java&#10;Rpc&#9;FILE&#9;file:///Users/zhiqiang32/domain/bd/hadoop/hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/ProtobufRpcEngine.java&#10;Retry&#9;FILE&#9;file:///Users/zhiqiang32/domain/bd/hadoop/hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/RetryInvocationHandler.java&#10;RetryI&#9;FILE&#9;file:///Users/zhiqiang32/domain/bd/hadoop/hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/RetryInvocationHandler.java&#10;Client&#9;FILE&#9;jar:///Users/zhiqiang32/.m2/repository/org/apache/hadoop/hadoop-common/2.8.2/hadoop-common-2.8.2.jar!/org/apache/hadoop/ipc/Client.class&#10;ReTRY&#9;FILE&#9;file:///Users/zhiqiang32/domain/bd/hadoop/hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/RetryPolicies.java&#10;RpcHeaderProtos&#9;FILE&#9;jar:///Users/zhiqiang32/.m2/repository/org/apache/hadoop/hadoop-common/2.8.2/hadoop-common-2.8.2.jar!/org/apache/hadoop/ipc/protobuf/RpcHeaderProtos.class&#10;RpcRequestHeaderProto&#9;PSI&#9;JAVA://org.apache.hadoop.ipc.protobuf.RpcHeaderProtos.RpcRequestHeaderProto&#10;NameNodeRpc&#9;FILE&#9;file:///Users/zhiqiang32/domain/bd/hadoop/hadoop-2.8.2-src/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/NameNodeRpcServer.java&#10;RMadmin&#9;PSI&#9;JAVA://org.apache.hadoop.yarn.client.cli.RMAdminCLI&#10;haadmin&#9;FILE&#9;file:///Users/zhiqiang32/domain/bd/hadoop/hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ha/HAAdmin.java&#10;rmadmin&#9;PSI&#9;JAVA://org.apache.hadoop.yarn.server.api.impl.pb.service.ResourceManagerAdministrationProtocolPBServiceImpl&#10;Configured&#9;PSI&#9;JAVA://org.apache.hadoop.hdfs.server.namenode.ha.ConfiguredFailoverProxyProvider&#10;DFS&#9;FILE&#9;jar:///Users/zhiqiang32/.m2/repository/org/apache/hadoop/hadoop-hdfs-client/2.8.2/hadoop-hdfs-client-2.8.2.jar!/org/apache/hadoop/hdfs/DFSClient.class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DFSClientRpcTest">
+    <configuration name="DFSClientRpcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RPC.DFSClientRpcTest" />
+      <module name="hadoop-2.8.2-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RPC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="JavaInvocationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RPC.JavaInvocationTest" />
+      <module name="hadoop-2.8.2-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RPC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.DFSClientRpcTest" />
+      <item itemvalue="Application.JavaInvocationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DFSClientRpcTest" />
+        <item itemvalue="Application.JavaInvocationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed195631-1807-4599-9dfe-83aa74327ec8" name="Default" comment="" />
+      <created>1533176519959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533176519959</updated>
+      <workItem from="1533176522979" duration="9483000" />
+      <workItem from="1533193330365" duration="20327000" />
+      <workItem from="1533430520769" duration="7175000" />
+      <workItem from="1533516097332" duration="12713000" />
+      <workItem from="1533555598575" duration="6343000" />
+      <workItem from="1533601705576" duration="20427000" />
+      <workItem from="1533691822197" duration="42416000" />
+      <workItem from="1533885571441" duration="10621000" />
+      <workItem from="1533901067000" duration="5108000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1534042147359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534042147359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="134613000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="42" y="23" width="1398" height="877" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50106496" side_tool="true" weight="0.23958333" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32960597" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dependency Viewer" weight="0.32948717" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="5" sideWeight="0.42991912" side_tool="true" weight="0.2219764" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" x="569" y="370" width="821" height="530" id="Debug" order="3" sideWeight="0.49945712" weight="0.4782051" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989142" weight="0.328125" />
+      <window_info anchor="bottom" id="Analyze Dataflow from" weight="0.32948717" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32435897" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32916668" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22708334" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32948717" />
+      <window_info anchor="bottom" x="175" y="201" width="814" height="565" id="Terminal" order="9" sideWeight="0.49946752" type="WINDOWED" weight="0.49895832" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.5700809" visible="true" weight="0.2780236" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49893504" weight="0.29479167" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info x="1477" y="400" width="322" height="601" id="Favorites" order="6" sideWeight="0.62708336" side_tool="true" weight="0.12619808" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.22708334" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
+      <window_info id="UI Designer" order="2" />
+      <window_info x="1477" y="400" width="322" height="601" id="Favorites" order="6" sideWeight="0.62708336" side_tool="true" weight="0.12619808" />
+      <window_info anchor="bottom" x="175" y="201" width="814" height="565" id="Terminal" order="10" sideWeight="0.49946752" type="WINDOWED" weight="0.49895832" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50106496" side_tool="true" weight="0.23958333" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32435897" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32916668" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32960597" />
+      <window_info id="Structure" order="5" sideWeight="0.42991912" side_tool="true" visible="true" weight="0.2219764" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49893504" weight="0.29479167" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.5700809" weight="0.12619808" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4989142" weight="0.328125" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Analyze Dataflow from" order="0" weight="0.32948717" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" x="505" y="492" width="821" height="530" id="Debug" order="4" sideWeight="0.49945712" type="FLOATING" weight="0.47916666" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RPC/DFSClientRpcTest.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="139" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>conf.updatingResource.get(&quot;fs.hdfs.impl.disable.cache&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>conf.updatingResource</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>b.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>b.value</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>callId.get() == null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>callId.get()==null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>callId.get()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>callId</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>retryInvocationHandler.asyncCallHandler</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/RetryUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/server/namenode/ha/ClientHAProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/NameNodeProxiesClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4760">
+          <caret line="343" selection-start-line="343" selection-end-line="343" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/RetryProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/io/BufferedInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2686">
+          <caret line="181" column="21" selection-start-line="181" selection-start-column="21" selection-end-line="181" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/io/DataOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.8.2/hadoop-common-2.8.2.jar!/org/apache/hadoop/ipc/Client.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.8.2/hadoop-common-2.8.2.jar!/org/apache/hadoop/ipc/protobuf/IpcConnectionContextProtos.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0-sources.jar!/com/google/protobuf/AbstractMessageLite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="82" column="31" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0-sources.jar!/com/google/protobuf/GeneratedMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/ProtoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="84" column="67" selection-start-line="84" selection-start-column="67" selection-end-line="84" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/CommonConfigurationKeys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5364">
+          <caret line="316" column="58" selection-start-line="316" selection-start-column="58" selection-end-line="316" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/ClientId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/RpcConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/protocolPB/ClientNamenodeProtocolTranslatorPB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5562">
+          <caret line="507" selection-start-line="507" selection-end-line="507" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="851" column="26" selection-start-line="851" selection-start-column="26" selection-end-line="851" selection-end-column="26" />
+          <folding>
+            <element signature="e#33203#33204#0" expanded="true" />
+            <element signature="e#33230#33231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net/SocketIOWithTimeout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-self-annotation/hadoop-2.8.2-src/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/Time.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/ProtobufHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/CallReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+          <folding>
+            <element signature="e#1892#1893#0" expanded="true" />
+            <element signature="e#1931#1932#0" expanded="true" />
+            <element signature="e#2066#2067#0" expanded="true" />
+            <element signature="e#2095#2096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/server/namenode/ha/ConfiguredFailoverProxyProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <element signature="e#4825#4826#0" expanded="true" />
+            <element signature="e#4856#4857#0" expanded="true" />
+            <element signature="e#4901#4902#0" expanded="true" />
+            <element signature="e#4971#4972#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/UserGroupInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="854" selection-start-line="854" selection-end-line="854" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/SecurityUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="682" selection-start-line="682" selection-end-line="682" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/Groups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="451" selection-start-line="451" selection-end-line="451" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23832">
+          <caret line="1480" selection-start-line="1480" selection-end-line="1480" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DFSClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7416">
+          <caret line="617" column="14" selection-start-line="617" selection-start-column="14" selection-end-line="617" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RPC/JavaInvocationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net/NetUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8496">
+          <caret line="530" selection-start-line="530" selection-end-line="530" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/RetryInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="235" selection-start-line="235" selection-end-line="235" />
+          <folding>
+            <element signature="class#Call#0;class#RetryInvocationHandler#0" />
+            <element signature="method#Call#0;class#Call#0;class#RetryInvocationHandler#0" />
+            <element signature="docComment;method#invokeOnce#0;class#Call#0;class#RetryInvocationHandler#0" />
+            <element signature="method#invokeOnce#0;class#Call#0;class#RetryInvocationHandler#0" />
+            <element signature="e#3004#3076#0" />
+            <element signature="method#processWaitTimeAndRetryInfo#0;class#Call#0;class#RetryInvocationHandler#0" />
+            <element signature="method#processRetryInfo#0;class#Call#0;class#RetryInvocationHandler#0" />
+            <element signature="method#invoke#0;class#Call#0;class#RetryInvocationHandler#0" />
+            <element signature="method#invokeMethod#0;class#Call#0;class#RetryInvocationHandler#0" />
+            <element signature="method#toString#0;class#Call#0;class#RetryInvocationHandler#0" />
+            <element signature="class#Counters#0;class#RetryInvocationHandler#0" />
+            <element signature="class#ProxyDescriptor#0;class#RetryInvocationHandler#0" />
+            <element signature="method#ProxyDescriptor#0;class#ProxyDescriptor#0;class#RetryInvocationHandler#0" />
+            <element signature="method#failover#0;class#ProxyDescriptor#0;class#RetryInvocationHandler#0" />
+            <element signature="method#idempotentOrAtMostOnce#0;class#ProxyDescriptor#0;class#RetryInvocationHandler#0" />
+            <element signature="class#RetryInfo#0;class#RetryInvocationHandler#0" />
+            <element signature="method#newRetryInfo#0;class#RetryInfo#0;class#RetryInvocationHandler#0" />
+            <element signature="method#RetryInvocationHandler#1;class#RetryInvocationHandler#0" />
+            <element signature="method#getRetryPolicy#0;class#RetryInvocationHandler#0" />
+            <element signature="method#newCall#0;class#RetryInvocationHandler#0" />
+            <element signature="method#invoke#0;class#RetryInvocationHandler#0" />
+            <element signature="method#handleException#0;class#RetryInvocationHandler#0" />
+            <element signature="method#log#0;class#RetryInvocationHandler#0" />
+            <element signature="e#12802#12855#0" />
+            <element signature="method#invokeMethod#0;class#RetryInvocationHandler#0" />
+            <element signature="method#isRpcInvocation#0;class#RetryInvocationHandler#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/RetryPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+          <folding>
+            <element signature="e#1874#1875#0" expanded="true" />
+            <element signature="e#1917#1918#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/RetryPolicies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="647" column="38" selection-start-line="647" selection-start-column="38" selection-end-line="647" selection-end-column="38" />
+          <folding>
+            <element signature="docComment;class#RetryPolicies#0" />
+            <element signature="docComment;field#TRY_ONCE_THEN_FAIL#0;class#RetryPolicies#0" />
+            <element signature="docComment;field#RETRY_FOREVER#0;class#RetryPolicies#0" />
+            <element signature="docComment;method#retryForeverWithFixedSleep#0;class#RetryPolicies#0" />
+            <element signature="method#retryForeverWithFixedSleep#0;class#RetryPolicies#0" />
+            <element signature="docComment;method#retryUpToMaximumCountWithFixedSleep#0;class#RetryPolicies#0" />
+            <element signature="method#retryUpToMaximumCountWithFixedSleep#0;class#RetryPolicies#0" />
+            <element signature="docComment;method#retryUpToMaximumTimeWithFixedSleep#0;class#RetryPolicies#0" />
+            <element signature="method#retryUpToMaximumTimeWithFixedSleep#0;class#RetryPolicies#0" />
+            <element signature="docComment;method#retryUpToMaximumCountWithProportionalSleep#0;class#RetryPolicies#0" />
+            <element signature="method#retryUpToMaximumCountWithProportionalSleep#0;class#RetryPolicies#0" />
+            <element signature="docComment;method#exponentialBackoffRetry#0;class#RetryPolicies#0" />
+            <element signature="method#exponentialBackoffRetry#0;class#RetryPolicies#0" />
+            <element signature="docComment;method#retryByException#0;class#RetryPolicies#0" />
+            <element signature="method#retryByException#0;class#RetryPolicies#0" />
+            <element signature="docComment;method#retryByRemoteException#0;class#RetryPolicies#0" />
+            <element signature="method#retryByRemoteException#0;class#RetryPolicies#0" />
+            <element signature="docComment;method#retryOtherThanRemoteException#0;class#RetryPolicies#0" />
+            <element signature="method#retryOtherThanRemoteException#0;class#RetryPolicies#0" />
+            <element signature="method#failoverOnNetworkException#0;class#RetryPolicies#0" />
+            <element signature="method#failoverOnNetworkException#1;class#RetryPolicies#0" />
+            <element signature="method#failoverOnNetworkException#2;class#RetryPolicies#0" />
+            <element signature="method#failoverOnNetworkException#3;class#RetryPolicies#0" />
+            <element signature="class#TryOnceThenFail#0;class#RetryPolicies#0" />
+            <element signature="method#shouldRetry#0;class#TryOnceThenFail#0;class#RetryPolicies#0" />
+            <element signature="method#equals#0;class#TryOnceThenFail#0;class#RetryPolicies#0" />
+            <element signature="class#RetryForever#0;class#RetryPolicies#0" />
+            <element signature="method#shouldRetry#0;class#RetryForever#0;class#RetryPolicies#0" />
+            <element signature="docComment;class#RetryLimited#0;class#RetryPolicies#0" />
+            <element signature="class#RetryLimited#0;class#RetryPolicies#0" />
+            <element signature="method#RetryLimited#0;class#RetryLimited#0;class#RetryPolicies#0" />
+            <element signature="method#shouldRetry#0;class#RetryLimited#0;class#RetryPolicies#0" />
+            <element signature="method#constructReasonString#0;class#RetryLimited#0;class#RetryPolicies#0" />
+            <element signature="method#equals#0;class#RetryLimited#0;class#RetryPolicies#0" />
+            <element signature="method#toString#0;class#RetryLimited#0;class#RetryPolicies#0" />
+            <element signature="class#RetryUpToMaximumCountWithFixedSleep#0;class#RetryPolicies#0" />
+            <element signature="method#RetryUpToMaximumCountWithFixedSleep#0;class#RetryUpToMaximumCountWithFixedSleep#0;class#RetryPolicies#0" />
+            <element signature="class#RetryUpToMaximumTimeWithFixedSleep#0;class#RetryPolicies#0" />
+            <element signature="method#RetryUpToMaximumTimeWithFixedSleep#0;class#RetryUpToMaximumTimeWithFixedSleep#0;class#RetryPolicies#0" />
+            <element signature="method#constructReasonString#0;class#RetryUpToMaximumTimeWithFixedSleep#0;class#RetryPolicies#0" />
+            <element signature="class#RetryUpToMaximumCountWithProportionalSleep#0;class#RetryPolicies#0" />
+            <element signature="method#RetryUpToMaximumCountWithProportionalSleep#0;class#RetryUpToMaximumCountWithProportionalSleep#0;class#RetryPolicies#0" />
+            <element signature="docComment;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="docComment;class#Pair#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="class#Pair#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="method#Pair#0;class#Pair#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="method#MultipleLinearRandomRetry#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="method#shouldRetry#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="e#12929#12963#0" />
+            <element signature="docComment;method#searchPair#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="method#searchPair#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="method#equals#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="method#toString#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="docComment;method#parseCommaSeparatedString#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="method#parseCommaSeparatedString#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="docComment;method#parsePositiveInt#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="method#parsePositiveInt#0;class#MultipleLinearRandomRetry#0;class#RetryPolicies#0" />
+            <element signature="class#ExceptionDependentRetry#0;class#RetryPolicies#0" />
+            <element signature="method#ExceptionDependentRetry#0;class#ExceptionDependentRetry#0;class#RetryPolicies#0" />
+            <element signature="method#shouldRetry#0;class#ExceptionDependentRetry#0;class#RetryPolicies#0" />
+            <element signature="class#RemoteExceptionDependentRetry#0;class#RetryPolicies#0" />
+            <element signature="method#RemoteExceptionDependentRetry#0;class#RemoteExceptionDependentRetry#0;class#RetryPolicies#0" />
+            <element signature="method#shouldRetry#0;class#RemoteExceptionDependentRetry#0;class#RetryPolicies#0" />
+            <element signature="class#OtherThanRemoteExceptionDependentRetry#0;class#RetryPolicies#0" />
+            <element signature="method#OtherThanRemoteExceptionDependentRetry#0;class#OtherThanRemoteExceptionDependentRetry#0;class#RetryPolicies#0" />
+            <element signature="method#shouldRetry#0;class#OtherThanRemoteExceptionDependentRetry#0;class#RetryPolicies#0" />
+            <element signature="class#ExponentialBackoffRetry#0;class#RetryPolicies#0" />
+            <element signature="method#ExponentialBackoffRetry#0;class#ExponentialBackoffRetry#0;class#RetryPolicies#0" />
+            <element signature="method#FailoverOnNetworkExceptionRetry#1;class#FailoverOnNetworkExceptionRetry#0;class#RetryPolicies#0" />
+            <element signature="method#calculateExponentialTime#1;class#RetryPolicies#0" />
+            <element signature="method#isWrappedStandbyException#0;class#RetryPolicies#0" />
+            <element signature="method#getWrappedRetriableException#0;class#RetryPolicies#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/RpcInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry/FailoverProxyProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="263" column="32" selection-start-line="263" selection-start-column="32" selection-end-line="263" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/RPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/CommonConfigurationKeysPublic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5688">
+          <caret line="338" column="54" selection-start-line="338" selection-start-column="54" selection-end-line="338" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0-sources.jar!/com/google/protobuf/ServiceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#1959#1960#0" expanded="true" />
+            <element signature="e#1983#1984#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/ClientCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+          <folding>
+            <element signature="e#1231#1287#0" />
+            <element signature="docComment;method#getClient#1;class#ClientCache#0" />
+            <element signature="method#getClient#1;class#ClientCache#0" />
+            <element signature="docComment;method#getClient#2;class#ClientCache#0" />
+            <element signature="method#getClient#2;class#ClientCache#0" />
+            <element signature="docComment;method#stopClient#0;class#ClientCache#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/RpcWritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="e#3326#3327#0" expanded="true" />
+            <element signature="e#3362#3363#0" expanded="true" />
+            <element signature="e#4699#4700#0" expanded="true" />
+            <element signature="e#4734#4735#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/ResponseBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1166">
+          <caret line="1100" column="38" selection-start-line="1100" selection-start-column="20" selection-end-line="1100" selection-end-column="38" />
+          <folding>
+            <element signature="docComment;class#Client#0" />
+            <element signature="e#3709#3716#0" />
+            <element signature="e#3864#3905#0" />
+            <element signature="e#4049#4058#0" expanded="true" />
+            <element signature="e#4134#4143#0" expanded="true" />
+            <element signature="e#4436#4567#0" expanded="true" />
+            <element signature="e#4566#4567#0" expanded="true" />
+            <element signature="e#4572#4602#0" />
+            <element signature="e#4778#4831#0" />
+            <element signature="e#4778#5255#0" />
+            <element signature="e#5924#6121#0" />
+            <element signature="e#6446#6745#0" />
+            <element signature="e#6446#7121#0" />
+            <element signature="e#7131#7476#0" />
+            <element signature="e#7131#8123#0" />
+            <element signature="e#8134#8273#0" />
+            <element signature="e#8134#8444#0" />
+            <element signature="e#8448#8636#0" />
+            <element signature="e#8448#8834#0" />
+            <element signature="e#8838#9246#0" />
+            <element signature="e#8838#9601#0" />
+            <element signature="e#9605#9745#0" />
+            <element signature="e#9605#10010#0" />
+            <element signature="e#10013#10167#0" />
+            <element signature="e#10013#10333#0" />
+            <element signature="e#10479#10538#0" />
+            <element signature="e#10597#10656#0" />
+            <element signature="e#10715#10841#0" />
+            <element signature="e#10916#10953#0" />
+            <element signature="e#10916#11587#0" />
+            <element signature="e#11700#11749#0" />
+            <element signature="e#11700#13882#0" />
+            <element signature="e#12201#12691#0" />
+            <element signature="e#12795#12904#0" />
+            <element signature="e#12795#13181#0" />
+            <element signature="e#13187#13364#0" />
+            <element signature="e#13187#13481#0" />
+            <element signature="e#13491#13655#0" />
+            <element signature="e#13491#13789#0" />
+            <element signature="e#13886#14099#0" />
+            <element signature="e#15376#15391#0" expanded="true" />
+            <element signature="e#15714#18360#0" />
+            <element signature="e#17285#17351#0" />
+            <element signature="e#17779#17844#0" />
+            <element signature="e#18366#18415#0" />
+            <element signature="e#18490#18712#0" />
+            <element signature="e#18490#18900#0" />
+            <element signature="e#18906#19068#0" />
+            <element signature="e#18906#20871#0" />
+            <element signature="e#19239#19683#0" />
+            <element signature="e#19697#19919#0" />
+            <element signature="e#19697#20231#0" />
+            <element signature="e#20239#20512#0" />
+            <element signature="e#20239#20865#0" />
+            <element signature="e#20881#21102#0" />
+            <element signature="e#21112#21831#0" />
+            <element signature="e#21607#21661#0" />
+            <element signature="e#21837#22318#0" />
+            <element signature="e#21944#22016#0" />
+            <element signature="e#22324#22558#0" />
+            <element signature="e#22324#23091#0" />
+            <element signature="e#23101#25660#0" />
+            <element signature="e#25666#26109#0" />
+            <element signature="e#25666#28112#0" />
+            <element signature="e#26367#28104#0" expanded="true" />
+            <element signature="e#27200#27235#0" />
+            <element signature="e#28103#28104#0" expanded="true" />
+            <element signature="e#28123#28294#0" />
+            <element signature="e#28123#31827#0" />
+            <element signature="e#29253#29543#0" expanded="true" />
+            <element signature="e#29542#29543#0" expanded="true" />
+            <element signature="e#31451#31520#0" />
+            <element signature="e#31837#32239#0" />
+            <element signature="e#32093#32154#0" />
+            <element signature="e#32245#33302#0" />
+            <element signature="e#33308#34529#0" />
+            <element signature="e#34535#35035#0" />
+            <element signature="e#34535#35976#0" />
+            <element signature="e#35130#35189#0" />
+            <element signature="e#35982#37232#0" />
+            <element signature="e#36805#36874#0" />
+            <element signature="e#37238#38343#0" />
+            <element signature="e#38427#38891#0" />
+            <element signature="e#38897#39735#0" />
+            <element signature="e#39235#39309#0" />
+            <element signature="e#39741#39948#0" />
+            <element signature="e#40120#40182#0" />
+            <element signature="e#41050#42105#0" expanded="true" />
+            <element signature="e#41661#41720#0" />
+            <element signature="e#42104#42105#0" expanded="true" />
+            <element signature="e#42263#42327#0" />
+            <element signature="e#42595#44712#0" />
+            <element signature="e#44722#44900#0" />
+            <element signature="e#44910#44938#0" />
+            <element signature="e#44910#46187#0" />
+            <element signature="e#45116#45184#0" />
+            <element signature="e#46197#46519#0" />
+            <element signature="e#46527#46616#0" />
+            <element signature="e#47475#47584#0" />
+            <element signature="e#47737#47834#0" />
+            <element signature="e#47905#48006#0" />
+            <element signature="e#47905#48524#0" />
+            <element signature="e#49360#49874#0" />
+            <element signature="e#49878#50487#0" />
+            <element signature="class#51480:52226" />
+            <element signature="method#get#0;class#51480:52226" />
+            <element signature="method#isDone#0;class#51480:52226" />
+            <element signature="e#52371#52539#0" />
+            <element signature="e#52641#52828#0" />
+            <element signature="e#53109#53170#0" />
+            <element signature="e#53109#54223#0" />
+            <element signature="e#54254#54280#0" />
+            <element signature="e#54395#54531#0" />
+            <element signature="e#54395#56029#0" />
+            <element signature="e#55503#55574#0" />
+            <element signature="e#55845#55918#0" />
+            <element signature="e#56035#56199#0" />
+            <element signature="e#56202#56258#0" />
+            <element signature="e#57276#58934#0" />
+            <element signature="e#59359#59408#0" />
+            <element signature="e#59510#59542#0" />
+            <element signature="e#59609#59649#0" />
+            <element signature="e#59928#60237#0" />
+            <element signature="e#61307#62014#0" />
+            <element signature="e#62024#62626#0" />
+            <element signature="e#62725#63240#0" />
+            <element signature="e#63340#63349#0" />
+            <element signature="e#63340#63418#0" />
+            <element signature="e#63422#63536#0" />
+            <element signature="e#63780#64090#0" />
+            <element signature="e#64096#64415#0" />
+            <element signature="e#64164#64232#0" />
+            <element signature="e#64421#64579#0" />
+            <element signature="e#64585#64749#0" />
+            <element signature="e#64755#65575#0" />
+            <element signature="e#65671#65750#0" />
+            <element signature="e#65756#65860#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="125" column="9" selection-start-line="125" selection-start-column="9" selection-end-line="125" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/ShutdownHookManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="201" column="14" selection-start-line="201" selection-start-column="14" selection-end-line="201" selection-end-column="14" />
+          <folding>
+            <element signature="e#2307#3719#0" expanded="true" />
+            <element signature="e#3718#3719#0" expanded="true" />
+            <element signature="e#4047#4048#0" expanded="true" />
+            <element signature="e#4067#4068#0" expanded="true" />
+            <element signature="e#4369#4370#0" expanded="true" />
+            <element signature="e#4439#4440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/target/generated-sources/java/org/apache/hadoop/ipc/protobuf/IpcConnectionContextProtos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="765" column="28" selection-start-line="765" selection-start-column="28" selection-end-line="765" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/ProtobufRpcEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+          <folding>
+            <element signature="e#3757#3766#0" />
+            <element signature="method#getProtocolMetaInfoProxy#0;class#ProtobufRpcEngine#0" />
+            <element signature="docComment;method#Invoker#1;class#Invoker#0;class#ProtobufRpcEngine#0" />
+            <element signature="method#constructRpcRequestHeader#0;class#Invoker#0;class#ProtobufRpcEngine#0" />
+            <element signature="e#6500#6573#0" />
+            <element signature="docComment;method#invoke#0;class#Invoker#0;class#ProtobufRpcEngine#0" />
+            <element signature="e#8667#8722#0" />
+            <element signature="class#10520:10842" />
+            <element signature="method#get#0;class#10520:10842" />
+            <element signature="method#getReturnMessage#0;class#Invoker#0;class#ProtobufRpcEngine#0" />
+            <element signature="method#getReturnProtoType#0;class#Invoker#0;class#ProtobufRpcEngine#0" />
+            <element signature="e#12549#12567#0" />
+            <element signature="method#getClient#0;class#ProtobufRpcEngine#0" />
+            <element signature="method#getServer#0;class#ProtobufRpcEngine#0" />
+            <element signature="class#Server#0;class#ProtobufRpcEngine#0" />
+            <element signature="method#Server#0;class#Server#0;class#ProtobufRpcEngine#0" />
+            <element signature="class#ProtoBufRpcInvoker#0;class#Server#0;class#ProtobufRpcEngine#0" />
+            <element signature="method#getProtocolImpl#0;class#ProtoBufRpcInvoker#0;class#Server#0;class#ProtobufRpcEngine#0" />
+            <element signature="class#RpcProtobufRequest#0;class#ProtobufRpcEngine#0" />
+            <element signature="method#RpcProtobufRequest#0;class#RpcProtobufRequest#0;class#ProtobufRpcEngine#0" />
+            <element signature="method#getRequestHeader#0;class#RpcProtobufRequest#0;class#ProtobufRpcEngine#0" />
+            <element signature="method#toString#0;class#RpcProtobufRequest#0;class#ProtobufRpcEngine#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RPC/DFSClientRpcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hadoop-2.8.2-src/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="96" column="67" lean-forward="true" selection-start-line="96" selection-start-column="67" selection-end-line="96" selection-end-column="67" />
+          <folding>
+            <element signature="docComment;class#FileSystem#0" />
+            <element signature="e#3985#4010#0" />
+            <element signature="e#4413#4469#0" />
+            <element signature="e#4583#4606#0" />
+            <element signature="e#4652#4710#0" />
+            <element signature="e#4739#4789#0" />
+            <element signature="e#4956#5007#0" />
+            <element signature="e#5046#5152#0" />
+            <element signature="e#5242#5518#0" />
+            <element signature="e#5242#5680#0" />
+            <element signature="e#5684#5996#0" />
+            <element signature="e#5684#6514#0" />
+            <element signature="e#6518#6624#0" />
+            <element signature="e#6749#6900#0" />
+            <element signature="e#7039#7190#0" />
+            <element signature="e#7315#7466#0" />
+            <element signature="e#7594#7794#0" />
+            <element signature="e#7594#8303#0" />
+            <element signature="e#8307#8515#0" />
+            <element signature="e#8307#8681#0" />
+            <element signature="e#8685#8757#0" />
+            <element signature="e#8795#9080#0" />
+            <element signature="e#9164#9574#0" />
+            <element signature="e#9164#10101#0" />
+            <element signature="e#10107#10218#0" />
+            <element signature="e#10275#10618#0" />
+            <element signature="e#10622#11396#0" />
+            <element signature="e#11399#11424#0" />
+            <element signature="e#10622#11628#0" />
+            <element signature="e#11632#11673#0" />
+            <element signature="e#11632#11745#0" />
+            <element signature="e#11749#11805#0" />
+            <element signature="e#11749#11966#0" />
+            <element signature="e#11972#12157#0" />
+            <element signature="e#11972#12701#0" />
+            <element signature="e#12705#12846#0" />
+            <element signature="e#12705#12997#0" />
+            <element signature="e#13001#13295#0" />
+            <element signature="e#14137#14504#0" />
+            <element signature="e#14137#15036#0" />
+            <element signature="e#15039#15383#0" />
+            <element signature="e#15039#16072#0" />
+            <element signature="e#16076#16232#0" />
+            <element signature="e#16076#16367#0" />
+            <element signature="e#16371#16573#0" />
+            <element signature="e#16371#16740#0" />
+            <element signature="e#16744#16872#0" />
+            <element signature="e#16744#16951#0" />
+            <element signature="e#16955#17135#0" />
+            <element signature="e#16955#17250#0" />
+            <element signature="e#17254#17339#0" />
+            <element signature="e#17254#17479#0" />
+            <element signature="e#17487#17867#0" />
+            <element signature="e#17487#17993#0" />
+            <element signature="e#17999#18704#0" />
+            <element signature="e#18707#18732#0" />
+            <element signature="e#17999#19134#0" />
+            <element signature="e#19140#19500#0" />
+            <element signature="e#19140#20523#0" />
+            <element signature="e#20527#20882#0" />
+            <element signature="e#20885#20930#0" />
+            <element signature="e#21024#21627#0" />
+            <element signature="e#21024#21946#0" />
+            <element signature="e#21950#22431#0" />
+            <element signature="e#21950#22740#0" />
+            <element signature="e#22744#22807#0" />
+            <element signature="e#22942#23029#0" />
+            <element signature="e#22942#24445#0" />
+            <element signature="e#24449#24964#0" />
+            <element signature="e#24449#25493#0" />
+            <element signature="e#25499#26101#0" />
+            <element signature="e#25499#26369#0" />
+            <element signature="e#26375#26577#0" />
+            <element signature="e#26375#27185#0" />
+            <element signature="e#26699#26755#0" />
+            <element signature="e#27189#27462#0" />
+            <element signature="e#27189#27571#0" />
+            <element signature="e#27575#27795#0" />
+            <element signature="e#27575#27921#0" />
+            <element signature="e#27925#28083#0" />
+            <element signature="e#28180#28275#0" />
+            <element signature="e#28180#28407#0" />
+            <element signature="e#28411#28549#0" />
+            <element signature="e#28411#28645#0" />
+            <element signature="e#28649#28904#0" />
+            <element signature="e#28649#29182#0" />
+            <element signature="e#29186#29399#0" />
+            <element signature="e#29186#29687#0" />
+            <element signature="e#29691#29876#0" />
+            <element signature="e#29691#30136#0" />
+            <element signature="e#30140#30400#0" />
+            <element signature="e#30140#30824#0" />
+            <element signature="e#30833#31147#0" />
+            <element signature="e#30833#31489#0" />
+            <element signature="e#31497#31851#0" />
+            <element signature="e#31497#32261#0" />
+            <element signature="e#32274#32652#0" />
+            <element signature="e#32274#33042#0" />
+            <element signature="e#33046#33459#0" />
+            <element signature="e#33046#34062#0" />
+            <element signature="e#34066#34614#0" />
+            <element signature="e#34846#35304#0" />
+            <element signature="e#34846#35635#0" />
+            <element signature="e#35641#36202#0" />
+            <element signature="e#35641#36776#0" />
+            <element signature="e#36464#36529#0" />
+            <element signature="e#36780#37883#0" />
+            <element signature="e#37403#37463#0" />
+            <element signature="e#37889#38222#0" />
+            <element signature="e#37889#38571#0" />
+            <element signature="e#38342#38411#0" />
+            <element signature="e#38576#38909#0" />
+            <element signature="e#38576#39868#0" />
+            <element signature="e#39095#39116#0" />
+            <element signature="e#39575#39644#0" />
+            <element signature="e#39872#40473#0" />
+            <element signature="e#39872#40799#0" />
+            <element signature="e#40803#41427#0" />
+            <element signature="e#40803#41866#0" />
+            <element signature="e#41871#42420#0" />
+            <element signature="e#41871#42758#0" />
+            <element signature="e#42762#42937#0" />
+            <element signature="e#42762#43159#0" />
+            <element signature="e#43163#43375#0" />
+            <element signature="e#43163#43518#0" />
+            <element signature="e#43521#43757#0" />
+            <element signature="e#43521#43881#0" />
+            <element signature="e#43885#44142#0" />
+            <element signature="e#44263#44459#0" />
+            <element signature="e#44263#44683#0" />
+            <element signature="e#44686#44849#0" />
+            <element signature="e#44686#44977#0" />
+            <element signature="e#44981#45223#0" />
+            <element signature="e#44981#45330#0" />
+            <element signature="e#45334#45577#0" />
+            <element signature="e#45654#46673#0" />
+            <element signature="e#45654#48607#0" />
+            <element signature="e#48611#49411#0" />
+            <element signature="e#48611#49626#0" />
+            <element signature="e#49632#49722#0" />
+            <element signature="e#49632#49821#0" />
+            <element signature="e#49827#50164#0" />
+            <element signature="e#50248#50674#0" />
+            <element signature="e#50248#50869#0" />
+            <element signature="e#50875#50993#0" />
+            <element signature="e#50875#51120#0" />
+            <element signature="e#51124#51255#0" />
+            <element signature="e#51700#51752#0" />
+            <element signature="e#51700#51924#0" />
+            <element signature="e#51928#52129#0" />
+            <element signature="e#51928#52346#0" />
+            <element signature="e#52350#52554#0" />
+            <element signature="e#52350#52761#0" />
+            <element signature="e#52807#52853#0" />
+            <element signature="e#52807#52962#0" />
+            <element signature="e#52970#53062#0" />
+            <element signature="e#52970#54014#0" />
+            <element signature="e#54018#54108#0" />
+            <element signature="e#54018#54208#0" />
+            <element signature="e#54385#54810#0" />
+            <element signature="e#54969#55536#0" />
+            <element signature="e#55540#55715#0" />
+            <element signature="e#55540#56020#0" />
+            <element signature="e#56024#56575#0" />
+            <element signature="e#56024#56880#0" />
+            <element signature="e#56884#57385#0" />
+            <element signature="e#56884#57532#0" />
+            <element signature="e#57536#58086#0" />
+            <element signature="e#57536#58427#0" />
+            <element signature="e#58431#60203#0" />
+            <element signature="e#58431#60345#0" />
+            <element signature="e#60351#60962#0" />
+            <element signature="e#60351#61121#0" />
+            <element signature="e#61127#61658#0" />
+            <element signature="e#61127#61832#0" />
+            <element signature="e#61836#62273#0" />
+            <element signature="e#61836#63225#0" />
+            <element signature="class#62444:63220" />
+            <element signature="method#next#0;class#62444:63220" />
+            <element signature="e#62889#62955#0" />
+            <element signature="e#63229#63642#0" />
+            <element signature="e#63229#64193#0" />
+            <element signature="class#63773:64188" />
+            <element signature="method#next#0;class#63773:64188" />
+            <element signature="e#64197#64941#0" />
+            <element signature="e#64197#66647#0" />
+            <element signature="class#65102:66642" />
+            <element signature="method#hasNext#0;class#65102:66642" />
+            <element signature="method#handleFileStat#0;class#65102:66642" />
+            <element signature="method#next#0;class#65102:66642" />
+            <element signature="e#66653#66779#0" />
+            <element signature="e#66653#66910#0" />
+            <element signature="e#66915#67073#0" />
+            <element signature="e#67139#67249#0" />
+            <element signature="e#67304#67787#0" />
+            <element signature="e#67860#67940#0" />
+            <element signature="e#67860#68049#0" />
+            <element signature="e#68053#68302#0" />
+            <element signature="e#68399#68572#0" />
+            <element signature="e#68399#68693#0" />
+            <element signature="e#68697#68864#0" />
+            <element signature="e#68697#68994#0" />
+            <element signature="e#68998#69163#0" />
+            <element signature="e#68998#69283#0" />
+            <element signature="e#69287#69519#0" />
+            <element signature="e#69287#69663#0" />
+            <element signature="e#69669#69991#0" />
+            <element signature="e#69669#70256#0" />
+            <element signature="e#70262#70554#0" />
+            <element signature="e#70262#70815#0" />
+            <element signature="e#70823#70991#0" />
+            <element signature="e#70823#71104#0" />
+            <element signature="e#71112#71314#0" />
+            <element signature="e#71112#71426#0" />
+            <element signature="e#71430#71700#0" />
+            <element signature="e#71430#71844#0" />
+            <element signature="e#71852#72539#0" />
+            <element signature="e#71852#72919#0" />
+            <element signature="e#72923#73295#0" />
+            <element signature="e#72923#73418#0" />
+            <element signature="e#73422#73764#0" />
+            <element signature="e#73422#73916#0" />
+            <element signature="e#73920#74011#0" />
+            <element signature="e#74195#74255#0" />
+            <element signature="e#74195#74361#0" />
+            <element signature="e#74365#74429#0" />
+            <element signature="e#74365#74535#0" />
+            <element signature="e#74669#74715#0" />
+            <element signature="e#74669#74833#0" />
+            <element signature="e#74837#75026#0" />
+            <element signature="e#74837#75222#0" />
+            <element signature="e#75230#75545#0" />
+            <element signature="e#75631#75740#0" />
+            <element signature="e#75631#75807#0" />
+            <element signature="e#75811#76061#0" />
+            <element signature="e#76157#76424#0" />
+            <element signature="e#76499#77952#0" />
+            <element signature="e#76499#78191#0" />
+            <element signature="e#78195#78420#0" />
+            <element signature="e#78195#79258#0" />
+            <element signature="e#79262#79316#0" />
+            <element signature="e#79262#79480#0" />
+            <element signature="e#79484#79557#0" />
+            <element signature="e#79484#79988#0" />
+            <element signature="e#79992#80054#0" />
+            <element signature="e#79992#80309#0" />
+            <element signature="e#80313#80377#0" />
+            <element signature="e#80441#80499#0" />
+            <element signature="e#80441#80713#0" />
+            <element signature="e#80717#80782#0" />
+            <element signature="e#80717#80997#0" />
+            <element signature="e#81001#81246#0" />
+            <element signature="e#81001#81364#0" />
+            <element signature="e#81368#81605#0" />
+            <element signature="e#81368#81718#0" />
+            <element signature="e#81722#81906#0" />
+            <element signature="e#81722#81994#0" />
+            <element signature="e#81998#82180#0" />
+            <element signature="e#81998#82266#0" />
+            <element signature="e#82270#82576#0" />
+            <element signature="e#82270#82659#0" />
+            <element signature="e#82663#83092#0" />
+            <element signature="e#82663#83213#0" />
+            <element signature="e#83217#83294#0" />
+            <element signature="e#83217#83387#0" />
+            <element signature="e#83391#83698#0" />
+            <element signature="e#83391#83796#0" />
+            <element signature="e#83800#84271#0" />
+            <element signature="e#83800#84358#0" />
+            <element signature="e#84362#84509#0" />
+            <element signature="e#84362#84619#0" />
+            <element signature="e#84623#84799#0" />
+            <element signature="e#84623#85008#0" />
+            <element signature="e#85014#85242#0" />
+            <element signature="e#85014#85478#0" />
+            <element signature="e#85484#85656#0" />
+            <element signature="e#85484#85865#0" />
+            <element signature="e#85871#86331#0" />
+            <element signature="e#85871#86547#0" />
+            <element signature="e#86551#86809#0" />
+            <element signature="e#86551#87025#0" />
+            <element signature="e#87029#87197#0" />
+            <element signature="e#87029#87389#0" />
+            <element signature="e#87393#87667#0" />
+            <element signature="e#87393#87845#0" />
+            <element signature="e#87849#88197#0" />
+            <element signature="e#87849#88387#0" />
+            <element signature="e#88391#88596#0" />
+            <element signature="e#88391#88779#0" />
+            <element signature="e#88783#89139#0" />
+            <element signature="e#88783#89327#0" />
+            <element signature="e#89331#89719#0" />
+            <element signature="e#89331#89950#0" />
+            <element signature="e#89954#90344#0" />
+            <element signature="e#89954#90529#0" />
+            <element signature="e#90533#90945#0" />
+            <element signature="e#90533#91132#0" />
+            <element signature="e#91136#91580#0" />
+            <element signature="e#91136#91793#0" />
+            <element signature="e#91797#92193#0" />
+            <element signature="e#91797#92379#0" />
+            <element signature="e#92383#92729#0" />
+            <element signature="e#92383#92918#0" />
+            <element signature="e#92922#93260#0" />
+            <element signature="e#92922#93482#0" />
+            <element signature="e#93486#93625#0" />
+            <element signature="e#93486#93820#0" />
+            <element signature="e#93824#94022#0" />
+            <element signature="e#93824#94236#0" />
+            <element signature="e#94240#94413#0" />
+            <element signature="e#94240#94645#0" />
+            <element signature="e#94649#94890#0" />
+            <element signature="e#94649#95035#0" />
+            <element signature="e#95039#95341#0" />
+            <element signature="e#95039#96248#0" />
+            <element signature="e#96526#97654#0" />
+            <element signature="e#97658#98210#0" />
+            <element signature="e#98214#98726#0" />
+            <element signature="e#98730#98763#0" />
+            <element signature="e#99006#99066#0" />
+            <element signature="e#99283#99358#0" />
+            <element signature="e#99283#99542#0" />
+            <element signature="e#100840#100918#0" />
+            <element signature="e#100924#101070#0" />
+            <element signature="e#102256#103209#0" />
+            <element signature="e#102403#102467#0" />
+            <element signature="e#103215#103242#0" />
+            <element signature="e#103215#104768#0" />
+            <element signature="e#103437#103526#0" />
+            <element signature="e#103534#103914#0" />
+            <element signature="e#104177#104625#0" />
+            <element signature="e#104778#105514#0" />
+            <element signature="e#105560#105958#0" />
+            <element signature="e#105560#107452#0" />
+            <element signature="e#106162#106231#0" />
+            <element signature="e#106162#106499#0" />
+            <element signature="e#106507#106566#0" />
+            <element signature="e#106507#106812#0" />
+            <element signature="e#106820#107063#0" />
+            <element signature="e#107458#107568#0" />
+            <element signature="e#107608#107904#0" />
+            <element signature="e#107953#107990#0" />
+            <element signature="e#108054#108351#0" />
+            <element signature="e#108413#108552#0" />
+            <element signature="e#108680#109045#0" />
+            <element signature="e#109051#109283#0" />
+            <element signature="e#109289#109401#0" />
+            <element signature="e#109289#109889#0" />
+            <element signature="class#109547:109761" />
+            <element signature="e#109895#110104#0" />
+            <element signature="e#109895#110969#0" />
+            <element signature="e#110227#110374#0" />
+            <element signature="e#110452#110557#0" />
+            <element signature="e#110452#110963#0" />
+            <element signature="e#110975#111047#0" />
+            <element signature="e#110975#111661#0" />
+            <element signature="e#111132#111655#0" />
+            <element signature="e#111395#111457#0" />
+            <element signature="e#111667#111757#0" />
+            <element signature="e#111667#112155#0" />
+            <element signature="e#112161#112271#0" />
+            <element signature="e#112390#112506#0" />
+            <element signature="e#112631#112735#0" />
+            <element signature="e#112839#112955#0" />
+            <element signature="e#113069#113175#0" />
+            <element signature="e#113281#113639#0" />
+            <element signature="e#113281#113920#0" />
+            <element signature="e#113926#114014#0" />
+            <element signature="e#113926#114347#0" />
+            <element signature="class#114074:114339" />
+            <element signature="e#114357#114448#0" />
+            <element signature="e#114357#114796#0" />
+            <element signature="class#114511:114788" />
+            <element signature="e#114806#114930#0" />
+            <element signature="e#114806#115297#0" />
+            <element signature="class#114987:115289" />
+            <element signature="method#accept#0;class#114987:115289" />
+            <element signature="e#115303#115470#0" />
+            <element signature="e#115303#115822#0" />
+            <element signature="class#115532:115814" />
+            <element signature="e#115828#115978#0" />
+            <element signature="e#115828#116310#0" />
+            <element signature="class#116036:116302" />
+            <element signature="e#116316#116472#0" />
+            <element signature="e#116316#116833#0" />
+            <element signature="class#116537:116825" />
+            <element signature="e#116839#117203#0" />
+            <element signature="class#116906:117195" />
+            <element signature="e#117209#118124#0" />
+            <element signature="e#117209#118508#0" />
+            <element signature="class#118170:118500" />
+            <element signature="method#aggregate#0;class#118170:118500" />
+            <element signature="e#118518#118660#0" />
+            <element signature="e#118839#119045#0" />
+            <element signature="e#118839#119326#0" />
+            <element signature="e#119330#119455#0" />
+            <element signature="e#119330#119604#0" />
+            <element signature="e#119610#119800#0" />
+            <element signature="e#119610#120533#0" />
+            <element signature="e#120539#120595#0" />
+            <element signature="e#120703#120759#0" />
+            <element signature="e#120703#121073#0" />
+            <element signature="e#121443#121889#0" />
+            <element signature="e#122009#122058#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hadoop-2.8.2-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:3.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
